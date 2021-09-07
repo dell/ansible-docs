@@ -1,4 +1,4 @@
-baseURL = "https://trisha-dell.github.io/ansible-storage-docs/"
+baseURL = ""
 title = "Dell Technologies"
 canonifyURLs = false
 
