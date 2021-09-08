@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Dell CSI Operator Installation Process</title>
-    <link>/v1/installation/operator/</link>
+    <link>https://dell.github.io/ansible-docs/v1/installation/operator/</link>
     <description>Recent content in Dell CSI Operator Installation Process on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/v1/installation/operator/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/v1/installation/operator/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V1: </title>
-      <link>/v1/installation/operator/installdriver/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/operator/installdriver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/operator/installdriver/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/operator/installdriver/</guid>
       <description>
         
         
@@ -186,10 +186,10 @@ You can get the name of the StorageClass and SnapshotClass created by the operat
     
     <item>
       <title>V1: PowerFlex</title>
-      <link>/v1/installation/operator/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/operator/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/operator/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/operator/powerflex/</guid>
       <description>
         
         
@@ -444,10 +444,10 @@ Run &lt;code&gt;kubectl create namespace &amp;lt;driver-namespace&amp;gt;&lt;/co
     
     <item>
       <title>V1: PowerMax</title>
-      <link>/v1/installation/operator/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/operator/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/operator/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/operator/powermax/</guid>
       <description>
         
         
@@ -694,10 +694,10 @@ kubectl get svc -n &amp;lt;namespace&amp;gt;
     
     <item>
       <title>V1: PowerScale</title>
-      <link>/v1/installation/operator/isilon/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/operator/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/operator/isilon/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/operator/isilon/</guid>
       <description>
         
         
@@ -866,10 +866,10 @@ This command will deploy the CSI-PowerScale driver in the namespace specified in
     
     <item>
       <title>V1: PowerStore</title>
-      <link>/v1/installation/operator/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/operator/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/operator/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/operator/powerstore/</guid>
       <description>
         
         
@@ -1022,10 +1022,10 @@ Note: The deployment of the driver using the operator does not use any Helm char
     
     <item>
       <title>V1: Unity</title>
-      <link>/v1/installation/operator/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/operator/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/operator/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/operator/unity/</guid>
       <description>
         
         

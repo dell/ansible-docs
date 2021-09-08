@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Testing Drivers</title>
-    <link>/v1/installation/test/</link>
+    <link>https://dell.github.io/ansible-docs/v1/installation/test/</link>
     <description>Recent content in Testing Drivers on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/v1/installation/test/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/v1/installation/test/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V1: Test PowerFlex CSI Driver</title>
-      <link>/v1/installation/test/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/test/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/test/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/test/powerflex/</guid>
       <description>
         
         
@@ -139,10 +139,10 @@ Normal Started 38s kubelet, k8s113a-10-247-102-215.lss.emc.com Started container
     
     <item>
       <title>V1: Test PowerMax CSI Driver</title>
-      <link>/v1/installation/test/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/test/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/test/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/test/powermax/</guid>
       <description>
         
         
@@ -225,10 +225,10 @@ Normal Started 38s kubelet, k8s113a-10-247-102-215.lss.emc.com Started container
     
     <item>
       <title>V1: Test PowerScale CSI Driver</title>
-      <link>/v1/installation/test/powerscale/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/test/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/test/powerscale/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/test/powerscale/</guid>
       <description>
         
         
@@ -318,10 +318,10 @@ kubectl get pvc
     
     <item>
       <title>V1: Test PowerStore CSI Driver</title>
-      <link>/v1/installation/test/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/test/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/test/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/test/powerstore/</guid>
       <description>
         
         
@@ -357,10 +357,10 @@ storage classes and automatically mounts them to the pod.&lt;/p&gt;
     
     <item>
       <title>V1: Test Unity CSI Driver</title>
-      <link>/v1/installation/test/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/test/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/test/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/test/unity/</guid>
       <description>
         
         

@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Documentation</title>
-    <link>/docs/</link>
+    <link>https://dell.github.io/ansible-docs/docs/</link>
     <description>Recent content in Documentation on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Introduction</title>
-      <link>/docs/network/introduction/</link>
+      <link>https://dell.github.io/ansible-docs/docs/network/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/network/introduction/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/network/introduction/</guid>
       <description>
         
         
@@ -28,10 +28,10 @@
     
     <item>
       <title>Docs: Introduction</title>
-      <link>/docs/server/introduction/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/introduction/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/introduction/</guid>
       <description>
         
         
@@ -41,10 +41,10 @@
     
     <item>
       <title>Docs: Introduction</title>
-      <link>/docs/storage/introduction/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/introduction/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/introduction/</guid>
       <description>
         
         
@@ -75,10 +75,10 @@ Collection? Here are some great resources to get you started:&lt;/p&gt;
     
     <item>
       <title>Docs: Licensing</title>
-      <link>/docs/network/licensing/</link>
+      <link>https://dell.github.io/ansible-docs/docs/network/licensing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/network/licensing/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/network/licensing/</guid>
       <description>
         
         
@@ -88,10 +88,10 @@ Collection? Here are some great resources to get you started:&lt;/p&gt;
     
     <item>
       <title>Docs: Licensing</title>
-      <link>/docs/server/licensing/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/licensing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/licensing/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/licensing/</guid>
       <description>
         
         
@@ -101,10 +101,10 @@ Collection? Here are some great resources to get you started:&lt;/p&gt;
     
     <item>
       <title>Docs: Licensing</title>
-      <link>/docs/storage/licensing/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/licensing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/licensing/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/licensing/</guid>
       <description>
         
         
@@ -115,10 +115,10 @@ Collection? Here are some great resources to get you started:&lt;/p&gt;
     
     <item>
       <title>Docs: PowerFlex Product Guide</title>
-      <link>/docs/server/platforms/powerflex/product-guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerflex/product-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powerflex/product-guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powerflex/product-guide/</guid>
       <description>
         
         
@@ -3210,10 +3210,10 @@ EMC PowerFlex storage platform.&lt;/li&gt;
     
     <item>
       <title>Docs: PowerFlex Release Notes</title>
-      <link>/docs/server/platforms/powerflex/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerflex/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powerflex/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powerflex/release-notes/</guid>
       <description>
         
         
@@ -3322,10 +3322,10 @@ page. It includes the following:&lt;/p&gt;
     
     <item>
       <title>Docs: PowerMax Product Guide</title>
-      <link>/docs/server/platforms/powermax/product-guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powermax/product-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powermax/product-guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powermax/product-guide/</guid>
       <description>
         
         
@@ -14341,10 +14341,10 @@ the storage pool with maximum free storage&lt;/p&gt;
     
     <item>
       <title>Docs: PowerMax Release Notes</title>
-      <link>/docs/server/platforms/powermax/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powermax/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powermax/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powermax/release-notes/</guid>
       <description>
         
         
@@ -14523,10 +14523,10 @@ page. It includes the following:&lt;/p&gt;
     
     <item>
       <title>Docs: PowerScale Product Guide</title>
-      <link>/docs/server/platforms/powerscale/product_guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/product_guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powerscale/product_guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/product_guide/</guid>
       <description>
         
         
@@ -18627,10 +18627,10 @@ Delete a filesystem snapshot.&lt;/p&gt;
     
     <item>
       <title>Docs: PowerScale Release Notes</title>
-      <link>/docs/server/platforms/powerscale/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powerscale/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/release-notes/</guid>
       <description>
         
         
@@ -18909,10 +18909,10 @@ at https:// &lt;a href=&#34;http://www.dell.com/community/Automation/bd-p/Automa
     
     <item>
       <title>Docs: PowerStore Product Guide</title>
-      <link>/docs/server/platforms/powerstore/product-guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/product-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powerstore/product-guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/product-guide/</guid>
       <description>
         
         
@@ -24722,10 +24722,10 @@ Delete an existing protection policy.&lt;/p&gt;
     
     <item>
       <title>Docs: PowerStore Release Notes</title>
-      <link>/docs/server/platforms/powerstore/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powerstore/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/release-notes/</guid>
       <description>
         
         
@@ -24826,10 +24826,10 @@ page. It includes the following:&lt;/p&gt;
     
     <item>
       <title>Docs: Product Guide</title>
-      <link>/docs/storage/platforms/powerflex/product-guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/product-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerflex/product-guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/product-guide/</guid>
       <description>
         
         
@@ -27921,10 +27921,10 @@ EMC PowerFlex storage platform.&lt;/li&gt;
     
     <item>
       <title>Docs: Product Guide</title>
-      <link>/docs/storage/platforms/powermax/product-guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powermax/product-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powermax/product-guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powermax/product-guide/</guid>
       <description>
         
         
@@ -38940,10 +38940,10 @@ the storage pool with maximum free storage&lt;/p&gt;
     
     <item>
       <title>Docs: Product Guide</title>
-      <link>/docs/storage/platforms/powerscale/product_guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerscale/product_guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerscale/product_guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerscale/product_guide/</guid>
       <description>
         
         
@@ -43044,10 +43044,10 @@ Delete a filesystem snapshot.&lt;/p&gt;
     
     <item>
       <title>Docs: Product Guide</title>
-      <link>/docs/storage/platforms/powerstore/product-guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerstore/product-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerstore/product-guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerstore/product-guide/</guid>
       <description>
         
         
@@ -48857,10 +48857,10 @@ Delete an existing protection policy.&lt;/p&gt;
     
     <item>
       <title>Docs: Product Guide</title>
-      <link>/docs/storage/platforms/unity/product-guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/unity/product-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/unity/product-guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/unity/product-guide/</guid>
       <description>
         
         
@@ -54929,10 +54929,10 @@ Modify storage pool&lt;/p&gt;
     
     <item>
       <title>Docs: ReadMe</title>
-      <link>/docs/storage/platforms/powerflex/readme/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerflex/readme/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/readme/</guid>
       <description>
         
         
@@ -55040,10 +55040,10 @@ Below example can be referred&lt;/p&gt;
     
     <item>
       <title>Docs: ReadMe</title>
-      <link>/docs/storage/platforms/powermax/readme/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powermax/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powermax/readme/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powermax/readme/</guid>
       <description>
         
         
@@ -55153,10 +55153,10 @@ Below example can be referred&lt;/p&gt;
     
     <item>
       <title>Docs: ReadMe</title>
-      <link>/docs/storage/platforms/powerscale/readme/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerscale/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerscale/readme/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerscale/readme/</guid>
       <description>
         
         
@@ -55256,10 +55256,10 @@ Sample result is shown in each module&amp;rsquo;s documentation.&lt;/p&gt;
     
     <item>
       <title>Docs: ReadMe</title>
-      <link>/docs/storage/platforms/powerstore/readme/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerstore/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerstore/readme/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerstore/readme/</guid>
       <description>
         
         
@@ -55362,10 +55362,10 @@ Sample result is shown in each module&amp;rsquo;s documentation.&lt;/p&gt;
     
     <item>
       <title>Docs: ReadMe</title>
-      <link>/docs/storage/platforms/unity/readme/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/unity/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/unity/readme/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/unity/readme/</guid>
       <description>
         
         
@@ -55453,10 +55453,10 @@ Below example can be referred&lt;/p&gt;
     
     <item>
       <title>Docs: Release Notes</title>
-      <link>/docs/storage/platforms/powerflex/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerflex/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/release-notes/</guid>
       <description>
         
         
@@ -55565,10 +55565,10 @@ page. It includes the following:&lt;/p&gt;
     
     <item>
       <title>Docs: Release Notes</title>
-      <link>/docs/storage/platforms/powermax/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powermax/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powermax/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powermax/release-notes/</guid>
       <description>
         
         
@@ -55747,10 +55747,10 @@ page. It includes the following:&lt;/p&gt;
     
     <item>
       <title>Docs: Release Notes</title>
-      <link>/docs/storage/platforms/powerscale/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerscale/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerscale/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerscale/release-notes/</guid>
       <description>
         
         
@@ -56029,10 +56029,10 @@ at https:// &lt;a href=&#34;http://www.dell.com/community/Automation/bd-p/Automa
     
     <item>
       <title>Docs: Release Notes</title>
-      <link>/docs/storage/platforms/powerstore/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerstore/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerstore/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerstore/release-notes/</guid>
       <description>
         
         
@@ -56133,10 +56133,10 @@ page. It includes the following:&lt;/p&gt;
     
     <item>
       <title>Docs: Release notes</title>
-      <link>/docs/storage/platforms/unity/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/unity/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/unity/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/unity/release-notes/</guid>
       <description>
         
         
@@ -56279,10 +56279,10 @@ page. It includes the following:&lt;/p&gt;
     
     <item>
       <title>Docs: Support</title>
-      <link>/docs/network/support/</link>
+      <link>https://dell.github.io/ansible-docs/docs/network/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/network/support/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/network/support/</guid>
       <description>
         
         
@@ -56292,10 +56292,10 @@ page. It includes the following:&lt;/p&gt;
     
     <item>
       <title>Docs: Support</title>
-      <link>/docs/server/support/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/support/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/support/</guid>
       <description>
         
         
@@ -56305,10 +56305,10 @@ page. It includes the following:&lt;/p&gt;
     
     <item>
       <title>Docs: Support</title>
-      <link>/docs/storage/support/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/support/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/support/</guid>
       <description>
         
         
@@ -56320,10 +56320,10 @@ page. It includes the following:&lt;/p&gt;
     
     <item>
       <title>Docs: Unity Product Guide</title>
-      <link>/docs/server/platforms/unity/product-guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/unity/product-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/unity/product-guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/unity/product-guide/</guid>
       <description>
         
         
@@ -62392,10 +62392,10 @@ Modify storage pool&lt;/p&gt;
     
     <item>
       <title>Docs: Unity Release notes</title>
-      <link>/docs/server/platforms/unity/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/unity/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/unity/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/unity/release-notes/</guid>
       <description>
         
         

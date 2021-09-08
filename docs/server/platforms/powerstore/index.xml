@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – PowerStore</title>
-    <link>/docs/server/platforms/powerstore/</link>
+    <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/</link>
     <description>Recent content in PowerStore on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/server/platforms/powerstore/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: PowerStore Product Guide</title>
-      <link>/docs/server/platforms/powerstore/product-guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/product-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powerstore/product-guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/product-guide/</guid>
       <description>
         
         
@@ -5828,10 +5828,10 @@ Delete an existing protection policy.&lt;/p&gt;
     
     <item>
       <title>Docs: PowerStore Release Notes</title>
-      <link>/docs/server/platforms/powerstore/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powerstore/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/release-notes/</guid>
       <description>
         
         

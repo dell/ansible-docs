@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – CSI Driver installation using Helm</title>
-    <link>/v1/installation/helm/</link>
+    <link>https://dell.github.io/ansible-docs/v1/installation/helm/</link>
     <description>Recent content in CSI Driver installation using Helm on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/v1/installation/helm/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/v1/installation/helm/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V1: PowerFlex</title>
-      <link>/v1/installation/helm/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/helm/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/helm/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/helm/powerflex/</guid>
       <description>
         
         
@@ -374,10 +374,10 @@ Deleting a storage class has no impact on a running Pod with mounted PVCs. You w
     
     <item>
       <title>V1: PowerMax</title>
-      <link>/v1/installation/helm/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/helm/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/helm/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/helm/powermax/</guid>
       <description>
         
         
@@ -703,10 +703,10 @@ The storage classes will be deleted if you upgrade the driver. If you wish to co
     
     <item>
       <title>V1: PowerScale</title>
-      <link>/v1/installation/helm/isilon/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/helm/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/helm/isilon/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/helm/isilon/</guid>
       <description>
         
         
@@ -1056,10 +1056,10 @@ Deleting a storage class has no impact on a running Pod with mounted PVCs. You w
     
     <item>
       <title>V1: PowerStore</title>
-      <link>/v1/installation/helm/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/helm/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/helm/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/helm/powerstore/</guid>
       <description>
         
         
@@ -1359,10 +1359,10 @@ The storage classes will be deleted if you upgrade the driver. If you wish to co
     
     <item>
       <title>V1: Unity</title>
-      <link>/v1/installation/helm/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v1/installation/helm/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/installation/helm/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/installation/helm/unity/</guid>
       <description>
         
         

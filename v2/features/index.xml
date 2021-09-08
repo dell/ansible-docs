@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Features</title>
-    <link>/v2/features/</link>
+    <link>https://dell.github.io/ansible-docs/v2/features/</link>
     <description>Recent content in Features on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/v2/features/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/v2/features/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V2: PowerFlex</title>
-      <link>/v2/features/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v2/features/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/features/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/features/powerflex/</guid>
       <description>
         
         
@@ -286,10 +286,10 @@ controller:
     
     <item>
       <title>V2: PowerMax</title>
-      <link>/v2/features/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v2/features/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/features/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/features/powermax/</guid>
       <description>
         
         
@@ -625,10 +625,10 @@ aware volume provisioning has been provided in the &lt;code&gt;csi-powermax/helm
     
     <item>
       <title>V2: PowerScale</title>
-      <link>/v2/features/powerscale/</link>
+      <link>https://dell.github.io/ansible-docs/v2/features/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/features/powerscale/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/features/powerscale/</guid>
       <description>
         
         
@@ -916,10 +916,10 @@ In case of a failure, one of the standby pods becomes active and takes the posit
     
     <item>
       <title>V2: PowerStore</title>
-      <link>/v2/features/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v2/features/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/features/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/features/powerstore/</guid>
       <description>
         
         
@@ -1264,10 +1264,10 @@ To configure use &lt;code&gt;nodeSelector&lt;/code&gt; and &lt;code&gt;toleratio
     
     <item>
       <title>V2: Unity</title>
-      <link>/v2/features/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v2/features/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/features/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/features/unity/</guid>
       <description>
         
         

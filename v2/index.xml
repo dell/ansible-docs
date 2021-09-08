@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Documentation</title>
-    <link>/v2/</link>
+    <link>https://dell.github.io/ansible-docs/v2/</link>
     <description>Recent content in Documentation on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/v2/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/v2/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V2: Getting Started</title>
-      <link>/v2/grasp/start/</link>
+      <link>https://dell.github.io/ansible-docs/v2/grasp/start/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/grasp/start/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/grasp/start/</guid>
       <description>
         
         
@@ -34,10 +34,10 @@
     
     <item>
       <title>V2: PowerFlex</title>
-      <link>/v2/upgradation/drivers/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v2/upgradation/drivers/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/upgradation/drivers/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/upgradation/drivers/powerflex/</guid>
       <description>
         
         
@@ -77,10 +77,10 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
     
     <item>
       <title>V2: PowerMax</title>
-      <link>/v2/upgradation/drivers/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v2/upgradation/drivers/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/upgradation/drivers/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/upgradation/drivers/powermax/</guid>
       <description>
         
         
@@ -132,10 +132,10 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
     
     <item>
       <title>V2: PowerScale</title>
-      <link>/v2/upgradation/drivers/isilon/</link>
+      <link>https://dell.github.io/ansible-docs/v2/upgradation/drivers/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/upgradation/drivers/isilon/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/upgradation/drivers/isilon/</guid>
       <description>
         
         
@@ -165,10 +165,10 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
     
     <item>
       <title>V2: PowerStore</title>
-      <link>/v2/upgradation/drivers/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v2/upgradation/drivers/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/upgradation/drivers/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/upgradation/drivers/powerstore/</guid>
       <description>
         
         
@@ -188,10 +188,10 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
     
     <item>
       <title>V2: Unity</title>
-      <link>/v2/upgradation/drivers/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v2/upgradation/drivers/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/upgradation/drivers/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/upgradation/drivers/unity/</guid>
       <description>
         
         
@@ -211,10 +211,10 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
     
     <item>
       <title>V2: OperatorHub.io</title>
-      <link>/v2/partners/operator/</link>
+      <link>https://dell.github.io/ansible-docs/v2/partners/operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/partners/operator/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/partners/operator/</guid>
       <description>
         
         
@@ -223,15 +223,15 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Search DellEMC in storage category in Operatorhub.io.
-&lt;img src=&#34;/images/ophub1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/ophub1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Click DellEMC Operator.
-&lt;img src=&#34;/images/ophub2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/ophub2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Check the desired version is selected and click &lt;em&gt;Install&lt;/em&gt;.  Follow the provided instructions.
-&lt;img src=&#34;/images/ophub3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/ophub3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;install-csi-drivers-via-operator&#34;&gt;Install CSI Drivers via Operator&lt;/h2&gt;
@@ -242,10 +242,10 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
     
     <item>
       <title>V2: Red Hat OpenShift</title>
-      <link>/v2/partners/redhat/</link>
+      <link>https://dell.github.io/ansible-docs/v2/partners/redhat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/partners/redhat/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/partners/redhat/</guid>
       <description>
         
         
@@ -256,23 +256,23 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Type &amp;ldquo;Dell&amp;rdquo; in the OperatorHub section under Operators, to get the list of available Dell CSI Operators.
-&lt;img src=&#34;/images/v1_images/oc1.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/v1_images/oc1.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Check the version you want to install from the list, you can check the details by clicking it.
-&lt;img src=&#34;/images/v1_images/oc2.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/v1_images/oc2.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Once selected, click &amp;ldquo;Install&amp;rdquo; to proceed with installation process.
-&lt;img src=&#34;/images/v1_images/oc3.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/v1_images/oc3.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;You can verify the list of available operators by selecting &amp;ldquo;Installed Operator&amp;rdquo; section.
-&lt;img src=&#34;/images/v1_images/oc4.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/v1_images/oc4.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Select the Dell CSI Operator to get further description.
-&lt;img src=&#34;/images/v1_images/oc5.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/v1_images/oc5.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;install-csi-drivers-via-operator&#34;&gt;Install CSI Drivers via Operator&lt;/h2&gt;
@@ -280,15 +280,15 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Select the particular CSI driver which you want to install, as seen in step 5 above. In this example, CSI Unity is selected.
-&lt;img src=&#34;/images/v1_images/driver1.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/v1_images/driver1.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;After clicking &amp;ldquo;Create CSIUnity&amp;rdquo; option in above snippet, you can set relevant parameters in your yaml file, as shown below.  Refer to the &lt;a href=&#34;../../installation/operator/#driver-install-via-dell-csi-operator&#34;&gt;driver install pages for the Dell CSI Operator&lt;/a&gt; for information on the parameters.
-&lt;img src=&#34;/images/v1_images/driver2.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/v1_images/driver2.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;You can check the driver installed and node and controller pods running in the Pods section under Workloads.
-&lt;img src=&#34;/images/v1_images/driver3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://dell.github.io/ansible-docs/images/v1_images/driver3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -297,10 +297,10 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
     
     <item>
       <title>V2: Docker EE</title>
-      <link>/v2/partners/docker/</link>
+      <link>https://dell.github.io/ansible-docs/v2/partners/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/partners/docker/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/partners/docker/</guid>
       <description>
         
         
@@ -309,19 +309,19 @@ kubectl delete crd volumesnapshots.snapshot.storage.k8s.io
 &lt;p&gt;On UCP based clusters, kubectl may not be installed by default, it is important that kubectl is installed prior to the installation of the driver.&lt;/p&gt;
 &lt;p&gt;The worker nodes on UCP backed clusters may run any of the OSs which we support with upstream clusters.&lt;/p&gt;
 &lt;h2 id=&#34;docker-ee-ui-examples&#34;&gt;Docker EE UI Examples&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/images/first.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/second.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/images/third.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dell.github.io/ansible-docs/images/first.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dell.github.io/ansible-docs/images/second.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dell.github.io/ansible-docs/images/third.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>V2: Operator</title>
-      <link>/v2/release/operator/</link>
+      <link>https://dell.github.io/ansible-docs/v2/release/operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/release/operator/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/release/operator/</guid>
       <description>
         
         
@@ -352,10 +352,10 @@ For any CSI operator and driver issues, questions or feedback, join the &lt;a hr
     
     <item>
       <title>V2: PowerFlex</title>
-      <link>/v2/features/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v2/features/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/features/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/features/powerflex/</guid>
       <description>
         
         
@@ -623,10 +623,10 @@ controller:
     
     <item>
       <title>V2: PowerFlex</title>
-      <link>/v2/installation/helm/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/helm/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/helm/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/helm/powerflex/</guid>
       <description>
         
         
@@ -899,10 +899,10 @@ Deleting a storage class has no impact on a running Pod with mounted PVCs. You w
     
     <item>
       <title>V2: PowerFlex</title>
-      <link>/v2/installation/operator/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/operator/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/operator/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/operator/powerflex/</guid>
       <description>
         
         
@@ -1063,10 +1063,10 @@ echo -n &amp;quot;mypassword&amp;quot; | base64
     
     <item>
       <title>V2: Test PowerFlex CSI Driver</title>
-      <link>/v2/installation/test/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/test/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/test/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/test/powerflex/</guid>
       <description>
         
         
@@ -1187,10 +1187,10 @@ spec:
     
     <item>
       <title>V2: PowerFlex</title>
-      <link>/v2/release/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v2/release/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/release/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/release/powerflex/</guid>
       <description>
         
         
@@ -1227,10 +1227,10 @@ spec:
     
     <item>
       <title>V2: PowerFlex</title>
-      <link>/v2/troubleshooting/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v2/troubleshooting/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/troubleshooting/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/troubleshooting/powerflex/</guid>
       <description>
         
         
@@ -1278,10 +1278,10 @@ spec:
     
     <item>
       <title>V2: PowerMax</title>
-      <link>/v2/features/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v2/features/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/features/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/features/powermax/</guid>
       <description>
         
         
@@ -1617,10 +1617,10 @@ aware volume provisioning has been provided in the &lt;code&gt;csi-powermax/helm
     
     <item>
       <title>V2: PowerMax</title>
-      <link>/v2/installation/helm/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/helm/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/helm/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/helm/powermax/</guid>
       <description>
         
         
@@ -1935,10 +1935,10 @@ Deleting a storage class has no impact on a running Pod with mounted PVCs. You w
     
     <item>
       <title>V2: PowerMax</title>
-      <link>/v2/installation/operator/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/operator/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/operator/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/operator/powermax/</guid>
       <description>
         
         
@@ -2185,10 +2185,10 @@ kubectl get svc -n &amp;lt;namespace&amp;gt;
     
     <item>
       <title>V2: Test PowerMax CSI Driver</title>
-      <link>/v2/installation/test/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/test/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/test/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/test/powermax/</guid>
       <description>
         
         
@@ -2271,10 +2271,10 @@ kubectl get svc -n &amp;lt;namespace&amp;gt;
     
     <item>
       <title>V2: PowerMax</title>
-      <link>/v2/release/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v2/release/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/release/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/release/powermax/</guid>
       <description>
         
         
@@ -2317,10 +2317,10 @@ kubectl get svc -n &amp;lt;namespace&amp;gt;
     
     <item>
       <title>V2: PowerMax</title>
-      <link>/v2/troubleshooting/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v2/troubleshooting/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/troubleshooting/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/troubleshooting/powermax/</guid>
       <description>
         
         
@@ -2356,10 +2356,10 @@ kubectl get svc -n &amp;lt;namespace&amp;gt;
     
     <item>
       <title>V2: PowerScale</title>
-      <link>/v2/features/powerscale/</link>
+      <link>https://dell.github.io/ansible-docs/v2/features/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/features/powerscale/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/features/powerscale/</guid>
       <description>
         
         
@@ -2647,10 +2647,10 @@ In case of a failure, one of the standby pods becomes active and takes the posit
     
     <item>
       <title>V2: PowerScale</title>
-      <link>/v2/installation/helm/isilon/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/helm/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/helm/isilon/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/helm/isilon/</guid>
       <description>
         
         
@@ -2934,10 +2934,10 @@ Deleting a storage class has no impact on a running Pod with mounted PVCs. You w
     
     <item>
       <title>V2: PowerScale</title>
-      <link>/v2/installation/operator/isilon/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/operator/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/operator/isilon/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/operator/isilon/</guid>
       <description>
         
         
@@ -3087,10 +3087,10 @@ This command will deploy the CSI-PowerScale driver.&lt;/li&gt;
     
     <item>
       <title>V2: Test PowerScale CSI Driver</title>
-      <link>/v2/installation/test/powerscale/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/test/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/test/powerscale/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/test/powerscale/</guid>
       <description>
         
         
@@ -3171,10 +3171,10 @@ kubectl get pvc
     
     <item>
       <title>V2: PowerScale</title>
-      <link>/v2/release/powerscale/</link>
+      <link>https://dell.github.io/ansible-docs/v2/release/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/release/powerscale/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/release/powerscale/</guid>
       <description>
         
         
@@ -3246,10 +3246,10 @@ kubectl get pvc
     
     <item>
       <title>V2: PowerScale</title>
-      <link>/v2/troubleshooting/powerscale/</link>
+      <link>https://dell.github.io/ansible-docs/v2/troubleshooting/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/troubleshooting/powerscale/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/troubleshooting/powerscale/</guid>
       <description>
         
         
@@ -3278,10 +3278,10 @@ kubectl get pvc
     
     <item>
       <title>V2: PowerStore</title>
-      <link>/v2/features/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v2/features/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/features/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/features/powerstore/</guid>
       <description>
         
         
@@ -3626,10 +3626,10 @@ To configure use &lt;code&gt;nodeSelector&lt;/code&gt; and &lt;code&gt;toleratio
     
     <item>
       <title>V2: PowerStore</title>
-      <link>/v2/installation/helm/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/helm/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/helm/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/helm/powerstore/</guid>
       <description>
         
         
@@ -3878,10 +3878,10 @@ Deleting a storage class has no impact on a running Pod with mounted PVCs. You w
     
     <item>
       <title>V2: PowerStore</title>
-      <link>/v2/installation/operator/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/operator/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/operator/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/operator/powerstore/</guid>
       <description>
         
         
@@ -3984,10 +3984,10 @@ echo -n &amp;quot;mypassword&amp;quot; | base64
     
     <item>
       <title>V2: Test PowerStore CSI Driver</title>
-      <link>/v2/installation/test/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/test/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/test/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/test/powerstore/</guid>
       <description>
         
         
@@ -4020,10 +4020,10 @@ storage classes, and automatically mounts them to the pod. Note that nfs storage
     
     <item>
       <title>V2: PowerStore</title>
-      <link>/v2/release/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v2/release/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/release/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/release/powerstore/</guid>
       <description>
         
         
@@ -4063,10 +4063,10 @@ storage classes, and automatically mounts them to the pod. Note that nfs storage
     
     <item>
       <title>V2: PowerStore</title>
-      <link>/v2/troubleshooting/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v2/troubleshooting/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/troubleshooting/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/troubleshooting/powerstore/</guid>
       <description>
         
         
@@ -4094,10 +4094,10 @@ storage classes, and automatically mounts them to the pod. Note that nfs storage
     
     <item>
       <title>V2: Quick video lessons</title>
-      <link>/v2/grasp/video/</link>
+      <link>https://dell.github.io/ansible-docs/v2/grasp/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/grasp/video/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/grasp/video/</guid>
       <description>
         
         
@@ -4119,10 +4119,10 @@ storage classes, and automatically mounts them to the pod. Note that nfs storage
     
     <item>
       <title>V2: Unity</title>
-      <link>/v2/features/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v2/features/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/features/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/features/unity/</guid>
       <description>
         
         
@@ -4463,10 +4463,10 @@ To do that you will need to use &lt;code&gt;nodeSelector&lt;/code&gt; and &lt;co
     
     <item>
       <title>V2: Unity</title>
-      <link>/v2/installation/helm/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/helm/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/helm/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/helm/unity/</guid>
       <description>
         
         
@@ -4912,10 +4912,10 @@ Use the following command to replace the secret
     
     <item>
       <title>V2: Unity</title>
-      <link>/v2/installation/operator/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/operator/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/operator/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/operator/unity/</guid>
       <description>
         
         
@@ -5093,10 +5093,10 @@ Use the following command to replace the secret
     
     <item>
       <title>V2: Test Unity CSI Driver</title>
-      <link>/v2/installation/test/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/test/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/test/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/test/unity/</guid>
       <description>
         
         
@@ -5128,10 +5128,10 @@ Use the following command to replace the secret
     
     <item>
       <title>V2: Unity</title>
-      <link>/v2/release/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v2/release/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/release/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/release/unity/</guid>
       <description>
         
         
@@ -5194,10 +5194,10 @@ Use the following command to replace the secret
     
     <item>
       <title>V2: Unity</title>
-      <link>/v2/troubleshooting/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v2/troubleshooting/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/troubleshooting/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/troubleshooting/unity/</guid>
       <description>
         
         

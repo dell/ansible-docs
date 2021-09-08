@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Dell CSI Operator Installation Process</title>
-    <link>/v2/installation/operator/</link>
+    <link>https://dell.github.io/ansible-docs/v2/installation/operator/</link>
     <description>Recent content in Dell CSI Operator Installation Process on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/v2/installation/operator/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/v2/installation/operator/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V2: PowerFlex</title>
-      <link>/v2/installation/operator/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/operator/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/operator/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/operator/powerflex/</guid>
       <description>
         
         
@@ -179,10 +179,10 @@ echo -n &amp;quot;mypassword&amp;quot; | base64
     
     <item>
       <title>V2: PowerMax</title>
-      <link>/v2/installation/operator/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/operator/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/operator/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/operator/powermax/</guid>
       <description>
         
         
@@ -429,10 +429,10 @@ kubectl get svc -n &amp;lt;namespace&amp;gt;
     
     <item>
       <title>V2: PowerScale</title>
-      <link>/v2/installation/operator/isilon/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/operator/isilon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/operator/isilon/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/operator/isilon/</guid>
       <description>
         
         
@@ -582,10 +582,10 @@ This command will deploy the CSI-PowerScale driver.&lt;/li&gt;
     
     <item>
       <title>V2: PowerStore</title>
-      <link>/v2/installation/operator/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/operator/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/operator/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/operator/powerstore/</guid>
       <description>
         
         
@@ -688,10 +688,10 @@ echo -n &amp;quot;mypassword&amp;quot; | base64
     
     <item>
       <title>V2: Unity</title>
-      <link>/v2/installation/operator/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v2/installation/operator/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v2/installation/operator/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v2/installation/operator/unity/</guid>
       <description>
         
         

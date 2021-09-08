@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Platforms</title>
-    <link>/docs/storage/platforms/</link>
+    <link>https://dell.github.io/ansible-docs/docs/storage/platforms/</link>
     <description>Recent content in Platforms on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/storage/platforms/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/docs/storage/platforms/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: PowerFlex</title>
-      <link>/docs/storage/platforms/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/</guid>
       <description>
         
         
@@ -28,10 +28,10 @@
     
     <item>
       <title>Docs: PowerMax</title>
-      <link>/docs/storage/platforms/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powermax/</guid>
       <description>
         
         
@@ -41,10 +41,10 @@
     
     <item>
       <title>Docs: PowerScale</title>
-      <link>/docs/storage/platforms/powerscale/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerscale/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerscale/</guid>
       <description>
         
         
@@ -54,10 +54,10 @@
     
     <item>
       <title>Docs: PowerStore</title>
-      <link>/docs/storage/platforms/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerstore/</guid>
       <description>
         
         
@@ -67,10 +67,10 @@
     
     <item>
       <title>Docs: Unity</title>
-      <link>/docs/storage/platforms/unity/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/unity/</guid>
       <description>
         
         

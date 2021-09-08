@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – PowerScale</title>
-    <link>/docs/server/platforms/powerscale/</link>
+    <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/</link>
     <description>Recent content in PowerScale on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/server/platforms/powerscale/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: PowerScale Product Guide</title>
-      <link>/docs/server/platforms/powerscale/product_guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/product_guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powerscale/product_guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/product_guide/</guid>
       <description>
         
         
@@ -4119,10 +4119,10 @@ Delete a filesystem snapshot.&lt;/p&gt;
     
     <item>
       <title>Docs: PowerScale Release Notes</title>
-      <link>/docs/server/platforms/powerscale/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/server/platforms/powerscale/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/release-notes/</guid>
       <description>
         
         

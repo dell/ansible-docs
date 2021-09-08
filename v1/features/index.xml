@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Features</title>
-    <link>/v1/features/</link>
+    <link>https://dell.github.io/ansible-docs/v1/features/</link>
     <description>Recent content in Features on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/v1/features/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/v1/features/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V1: PowerFlex</title>
-      <link>/v1/features/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v1/features/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/features/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/features/powerflex/</guid>
       <description>
         
         
@@ -370,10 +370,10 @@ When creating ephemeral volumes, it is important to specify the following within
     
     <item>
       <title>V1: PowerMax</title>
-      <link>/v1/features/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v1/features/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/features/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/features/powermax/</guid>
       <description>
         
         
@@ -711,10 +711,10 @@ on any worker node with access to the PowerMax array &lt;code&gt;000000000001&lt
     
     <item>
       <title>V1: PowerScale</title>
-      <link>/v1/features/powerscale/</link>
+      <link>https://dell.github.io/ansible-docs/v1/features/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/features/powerscale/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/features/powerscale/</guid>
       <description>
         
         
@@ -1060,10 +1060,10 @@ Also, previous workload will still be using default network and not custom netwo
     
     <item>
       <title>V1: PowerStore</title>
-      <link>/v1/features/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v1/features/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/features/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/features/powerstore/</guid>
       <description>
         
         
@@ -1477,10 +1477,10 @@ To configure use &lt;code&gt;nodeSelector&lt;/code&gt; and &lt;code&gt;toleratio
     
     <item>
       <title>V1: Unity</title>
-      <link>/v1/features/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v1/features/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/features/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/features/unity/</guid>
       <description>
         
         

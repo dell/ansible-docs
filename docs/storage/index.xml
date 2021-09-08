@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Storage</title>
-    <link>/docs/storage/</link>
+    <link>https://dell.github.io/ansible-docs/docs/storage/</link>
     <description>Recent content in Storage on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/storage/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/docs/storage/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Introduction</title>
-      <link>/docs/storage/introduction/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/introduction/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/introduction/</guid>
       <description>
         
         
@@ -49,10 +49,10 @@ Collection? Here are some great resources to get you started:&lt;/p&gt;
     
     <item>
       <title>Docs: Licensing</title>
-      <link>/docs/storage/licensing/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/licensing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/licensing/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/licensing/</guid>
       <description>
         
         
@@ -63,10 +63,10 @@ Collection? Here are some great resources to get you started:&lt;/p&gt;
     
     <item>
       <title>Docs: Platforms</title>
-      <link>/docs/storage/platforms/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/</guid>
       <description>
         
         
@@ -76,10 +76,10 @@ Collection? Here are some great resources to get you started:&lt;/p&gt;
     
     <item>
       <title>Docs: Support</title>
-      <link>/docs/storage/support/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/support/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/support/</guid>
       <description>
         
         

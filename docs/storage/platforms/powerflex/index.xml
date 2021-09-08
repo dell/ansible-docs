@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – PowerFlex</title>
-    <link>/docs/storage/platforms/powerflex/</link>
+    <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/</link>
     <description>Recent content in PowerFlex on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/storage/platforms/powerflex/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Product Guide</title>
-      <link>/docs/storage/platforms/powerflex/product-guide/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/product-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerflex/product-guide/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/product-guide/</guid>
       <description>
         
         
@@ -3110,10 +3110,10 @@ EMC PowerFlex storage platform.&lt;/li&gt;
     
     <item>
       <title>Docs: ReadMe</title>
-      <link>/docs/storage/platforms/powerflex/readme/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerflex/readme/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/readme/</guid>
       <description>
         
         
@@ -3221,10 +3221,10 @@ Below example can be referred&lt;/p&gt;
     
     <item>
       <title>Docs: Release Notes</title>
-      <link>/docs/storage/platforms/powerflex/release-notes/</link>
+      <link>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/storage/platforms/powerflex/release-notes/</guid>
+      <guid>https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/release-notes/</guid>
       <description>
         
         

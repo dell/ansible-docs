@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell Technologies – Troubleshooting</title>
-    <link>/v1/troubleshooting/</link>
+    <link>https://dell.github.io/ansible-docs/v1/troubleshooting/</link>
     <description>Recent content in Troubleshooting on Dell Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/v1/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://dell.github.io/ansible-docs/v1/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>V1: Dell CSI Operator</title>
-      <link>/v1/troubleshooting/operator/</link>
+      <link>https://dell.github.io/ansible-docs/v1/troubleshooting/operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/troubleshooting/operator/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/troubleshooting/operator/</guid>
       <description>
         
         
@@ -53,10 +53,10 @@ the Custom Resource forcefully by setting forceUpdate to true. If all the driver
     
     <item>
       <title>V1: PowerFlex</title>
-      <link>/v1/troubleshooting/powerflex/</link>
+      <link>https://dell.github.io/ansible-docs/v1/troubleshooting/powerflex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/troubleshooting/powerflex/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/troubleshooting/powerflex/</guid>
       <description>
         
         
@@ -104,10 +104,10 @@ the Custom Resource forcefully by setting forceUpdate to true. If all the driver
     
     <item>
       <title>V1: PowerMax</title>
-      <link>/v1/troubleshooting/powermax/</link>
+      <link>https://dell.github.io/ansible-docs/v1/troubleshooting/powermax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/troubleshooting/powermax/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/troubleshooting/powermax/</guid>
       <description>
         
         
@@ -143,10 +143,10 @@ the Custom Resource forcefully by setting forceUpdate to true. If all the driver
     
     <item>
       <title>V1: PowerScale</title>
-      <link>/v1/troubleshooting/powerscale/</link>
+      <link>https://dell.github.io/ansible-docs/v1/troubleshooting/powerscale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/troubleshooting/powerscale/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/troubleshooting/powerscale/</guid>
       <description>
         
         
@@ -179,10 +179,10 @@ the Custom Resource forcefully by setting forceUpdate to true. If all the driver
     
     <item>
       <title>V1: PowerStore</title>
-      <link>/v1/troubleshooting/powerstore/</link>
+      <link>https://dell.github.io/ansible-docs/v1/troubleshooting/powerstore/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/troubleshooting/powerstore/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/troubleshooting/powerstore/</guid>
       <description>
         
         
@@ -214,10 +214,10 @@ the Custom Resource forcefully by setting forceUpdate to true. If all the driver
     
     <item>
       <title>V1: Unity</title>
-      <link>/v1/troubleshooting/unity/</link>
+      <link>https://dell.github.io/ansible-docs/v1/troubleshooting/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/v1/troubleshooting/unity/</guid>
+      <guid>https://dell.github.io/ansible-docs/v1/troubleshooting/unity/</guid>
       <description>
         
         
