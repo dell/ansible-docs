@@ -1,0 +1,93 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dell Technologies – Storage</title>
+    <link>/docs/storage/</link>
+    <description>Recent content in Storage on Dell Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/docs/storage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Introduction</title>
+      <link>/docs/storage/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/storage/introduction/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;automating-dell-emc-storage-with-the-ansible-automation-platform&#34;&gt;Automating Dell EMC Storage with the Ansible Automation Platform&lt;/h2&gt;
+&lt;p&gt;The Dell EMC storage portfolio provides deep integration with Ansible through a number of modules to enable configuration management and workflow automation for a number of use cases including SAN zone setup, provisioning, snapshots, remote replication as well as data and workload mobility across the hybrid cloud.&lt;/p&gt;
+&lt;h2 id=&#34;solution-benefits&#34;&gt;Solution Benefits&lt;/h2&gt;
+&lt;p&gt;Ansible modules for Dell EMC storage platforms: PowerMax, PowerStore, PowerScale, PowerFlex, Unity XT and VPLEX help
+customers improve efficiency, flexibility, and agility to run their datacenter operations.Gone are the days when automation meant specialized programming skills like Perl, Python or hard to
+use shell scripting.Instead, Ansible modules for Dell EMC storage do the heavy lifting of coding REST API interactions with storage platforms and expose the storage functionality to the Ansible engine.IT users simply need to specify the storage management actions and the desired configuration in a simple key-value pair format in a YAML file.Dell EMC storage Ansible plugins verify if the desired state has been reached and execute the actions only if the desired state is not reached.This underlying execution intelligence (idempotency) avoids inadvertent execution of actions and any resulting drift in the infrastructure configuration.This approach helps makes it easier to attain consistent and highly scalable operations over the entire IT infrastructure stack for a variety of use cases like DevOps process automation and managing large scale application deployments.&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started:&lt;/h2&gt;
+&lt;p&gt;Looking to learn more about the Dell Certified Content
+Collection? Here are some great resources to get you started:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLbssOJyyvHuVXyKi0c9Z7NLqBiDiwF1eA&#34;&gt;Dell EMC storage automation YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yqkJOf0qDxE&amp;amp;list=PLbssOJyyvHuVXyKi0c9Z7NLqBiDiwF1eA&amp;amp;index=5&amp;amp;t=22s&#34;&gt;Dell EMC storage PowerMax workflows automated by Ansible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.delltechnologies.com/asset/en-us/products/storage/briefs-summaries/h17892-dellemc-storage-integration-devops-it-automation-so.pdf&#34;&gt;Dell EMC storage solution brief&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.delltechnologies.com/asset/en-us/products/storage/technical-support/h17939-best-practices-guide-ansible-modules-for-powermax.pdf&#34;&gt;Dell EMC storage best practices guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://galaxy.ansible.com/dellemc&#34;&gt;Explore&lt;/a&gt; the Community Ansible Collection for Dell EMC&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://access.redhat.com/articles/3642632&#34;&gt;Download&lt;/a&gt; the Supported Ansible Collection for Dell EMC from Automation Hub (Ansible subscription required)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ansible.com/contact-us&#34;&gt;Contact us&lt;/a&gt; for an infrastructure automation demo.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.delltechnologies.com/en-us/storage/storage-automation-and-developer-resources/index.htm#tab0=0&#34;&gt;Dell EMC DevOps and Automation resources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.delltechnologies.com/en-us/storage/storage-automation-and-developer-resources/index.htm#tab0=0&#34;&gt;Dell EMC Storage Automation and Developer&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Licensing</title>
+      <link>/docs/storage/licensing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/storage/licensing/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Ansible collection is released and licensed under the GPL-3.0 license. Ansible modules and module utilities that are part of the Ansible collection are released and licensed under the Apache 2.0 license.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Platforms</title>
+      <link>/docs/storage/platforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/storage/platforms/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Support</title>
+      <link>/docs/storage/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/storage/support/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;support&#34;&gt;Support&lt;/h2&gt;
+&lt;p&gt;Ansible modules for PowerMax are supported by Dell EMC and are provided under the terms of the license attached to the source code. Dell EMC does not provide support for any source code modifications. For any Ansible module issues, questions or feedback, join the &lt;a href=&#34;https://www.dell.com/community/Automation/bd-p/Automation&#34;&gt;Dell EMC Automation community&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
