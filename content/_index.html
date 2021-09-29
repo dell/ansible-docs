@@ -2,17 +2,51 @@
 title = "Dell Technologies"
 linkTitle = "Dell Technologies"
 +++
-
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.card{
+    margin-right: 90px;
+}
+</style>
+</head>
+<body>
 {{< blocks/cover title="Dell Technologies Ansible Documentation" image_anchor="top" height="max" color="primary" >}}
-<div class="mx-auto">
-        <a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs/network" >}}">
-                Network <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-        </a>
-        <a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs/server" >}}">
-                Server <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-        </a>
-        <a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs/storage" >}}">
-                Storage <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-        </a>
+<div class="row">
+<div class="card" style="width: 18rem; height: 18rem">
+  <img class="card-img-top" src="network.jpg" alt="Card image cap">
+  <div class="card-body">
+    <a class="container" href="{{< relref "/docs/network" >}}">
+                        Network
+    </a>
+    
+  </div>
+</div>
+<div class="card" style="width: 18rem; height: 18rem">
+  <img class="card-img-top" src="server_2.jpeg" alt="Card image cap">
+  <div class="card-body">
+    <a class="container" href="{{< relref "/docs/server" >}}">
+                        Server
+    </a>
+    
+  </div>
+</div>
+<div class="card" style="width: 18rem; height: 18rem">
+  <img class="card-img-top" src="storage-family_.jpg" alt="Card image cap">
+  <div class="card-body">
+    <a class="container" href="{{< relref "/docs/storage" >}}">
+                        Storage
+    </a>
+    
+  </div>
+</div>
 </div>
 {{< /blocks/cover >}}
+</body>
+</html>
