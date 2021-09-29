@@ -15,11 +15,11 @@
 <meta property="og:description" content="PowerFlex Release notes documentation" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://dell.github.io/ansible-docs/docs/storage/platforms/powerflex/release-notes/" />
-<meta property="article:modified_time" content="2021-09-07T11:01:07-04:00" /><meta property="og:site_name" content="Dell Technologies" />
+<meta property="article:modified_time" content="2021-09-29T04:10:12-04:00" /><meta property="og:site_name" content="Dell Technologies" />
 <meta itemprop="name" content="Release Notes">
 <meta itemprop="description" content="PowerFlex Release notes documentation">
-<meta itemprop="dateModified" content="2021-09-07T11:01:07-04:00" />
-<meta itemprop="wordCount" content="365">
+<meta itemprop="dateModified" content="2021-09-29T04:10:12-04:00" />
+<meta itemprop="wordCount" content="298">
 
 
 
@@ -82,7 +82,7 @@
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/ansible-docs/offline-search-index.5f08514487f800cf9d1fe6c2e178035c08fbe6c4c8cdab06e6f46a67e7f16374b0a092a70464c18e65293855d7bf2deb2c9ca49aeb2ef65cd0eabed164e2a4fa.json"
+  data-offline-search-index-json-src="/ansible-docs/offline-search-index.0795cad9ac1bc78b4c9fef40b665173f5c84b7077b3b411de5f7c6e696e6ca4bedd67da7229e34ed4a76cde7a6e9232889394b4c6a787b6271268c8924d8a517.json"
   data-offline-search-base-href="/"
 >
 
@@ -112,7 +112,7 @@
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/ansible-docs/offline-search-index.5f08514487f800cf9d1fe6c2e178035c08fbe6c4c8cdab06e6f46a67e7f16374b0a092a70464c18e65293855d7bf2deb2c9ca49aeb2ef65cd0eabed164e2a4fa.json"
+  data-offline-search-index-json-src="/ansible-docs/offline-search-index.0795cad9ac1bc78b4c9fef40b665173f5c84b7077b3b411de5f7c6e696e6ca4bedd67da7229e34ed4a76cde7a6e9232889394b4c6a787b6271268c8924d8a517.json"
   data-offline-search-base-href="/"
 >
 
@@ -708,7 +708,7 @@
   <ul>
     <li>
       <ul>
-        <li><a href="#release-notes-10">Release Notes 1.0</a></li>
+        <li><a href="#release-notes-110">Release Notes 1.1.0</a></li>
       </ul>
     </li>
     <li><a href="#contents">Contents</a></li>
@@ -789,7 +789,7 @@
 
 	       
 	<h1 id="ansible-modules-for-dell-emc-powerflex"><strong>Ansible Modules for Dell EMC PowerFlex</strong></h1>
-<h3 id="release-notes-10">Release Notes 1.0</h3>
+<h3 id="release-notes-110">Release Notes 1.1.0</h3>
 <blockquote>
 <p>© 2021 Dell Inc. or its subsidiaries. All rights reserved. Dell
 EMC, and other trademarks are trademarks of Dell Inc. or its
@@ -809,71 +809,52 @@ Modules for Dell EMC PowerFlex.</p>
 </ul>
 <h2 id="product-description">Product Description</h2>
 <p>The Ansible Modules for Dell EMC PowerFlex are used for managing volumes,
-storage pools, SDCs, and snapshots for PowerFlex storage devices.
+storage pools, SDCs, snapshots, SDSs and devices for PowerFlex storage devices.
 The modules use playbooks to list, show, create, delete, and modify
 each of the entities.</p>
 <p>The Ansible Modules for Dell EMC PowerFlex supports the following
 features:</p>
 <ul>
-<li>Create volumes, storage pools and snapshots.</li>
-<li>Modify volumes, storage pools, SDCs and snapshots.</li>
-<li>Delete volumes and snapshots.</li>
-<li>Get details of a volumes, snapshots, SDCs and storage pool.</li>
+<li>Create volumes, storage pools, snapshots, SDSs.</li>
+<li>Add devices.</li>
+<li>Modify volumes, storage pools, SDCs, snapshots and SDSs.</li>
+<li>Delete volumes, snapshots and SDSs.</li>
+<li>Get details of a volumes, snapshots, SDCs, storage pools, SDSs and devices.</li>
 <li>Get entities of the PowerFlex storage device.</li>
+<li>Remove devices.</li>
 </ul>
 <h2 id="new-features">New Features</h2>
-<p>The Ansible Modules for Dell EMC PowerFlex release 1.0 supports the
+<p>The Ansible Modules for Dell EMC PowerFlex release 1.1.0 supports the
 following features:</p>
 <ul>
 <li>
 <p>The following are the features of the gatherfacts module:</p>
 <ul>
-<li>Get the API details of a PowerFlex storage device.</li>
-<li>Get the list of SDCs.</li>
-<li>Get the list of SDSs.</li>
-<li>Get the list of volumes.</li>
-<li>Get the list of snapshots.</li>
-<li>Get the list of storage pools.</li>
-<li>Get list of protection domains.</li>
-<li>Get list of snapshot policies.</li>
+<li>Get list of devices.</li>
 </ul>
 </li>
 <li>
-<p>The following are the features of the volume module:</p>
+<p>The following are the features of the SDS module:</p>
 <ul>
-<li>Get the details of a volume.</li>
-<li>Create a volume.</li>
-<li>Modify details of a volume.</li>
-<li>Delete a volume.</li>
+<li>Get the details of an SDS.</li>
+<li>Create an SDS.</li>
+<li>Modify details of an SDS.</li>
+<li>Delete an SDS.</li>
 </ul>
 </li>
 <li>
-<p>The following are the features of the snapshot module:</p>
+<p>The following are the features of the device module:</p>
 <ul>
-<li>Get the details of a snapshot.</li>
-<li>Create a snapshot.</li>
-<li>Modify details of a snapshot.</li>
-<li>Delete a snapshot.</li>
-</ul>
-</li>
-<li>
-<p>The following are the features of the storage pools module:</p>
-<ul>
-<li>Get the details of a storage pool.</li>
-<li>Create a storage pool.</li>
-<li>Modify details of a storage pool.</li>
-</ul>
-</li>
-<li>
-<p>The following are the features of the SDCs module:</p>
-<ul>
-<li>Get the details of the SDC.</li>
-<li>Rename a SDC.</li>
+<li>Get the details of a device.</li>
+<li>Add a device.</li>
+<li>Remove a device.</li>
 </ul>
 </li>
 </ul>
 <h2 id="known-issues">Known issues</h2>
-<p>There are no known issues.</p>
+<ul>
+<li>Setting the RF cache and performance profile of the SDS during its creation fails intermittently on PowerFlex version 3.5</li>
+</ul>
 <h2 id="limitations">Limitations</h2>
 <p>There are no known limitations.</p>
 <h2 id="distribution">Distribution</h2>

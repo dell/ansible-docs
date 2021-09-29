@@ -15,11 +15,11 @@
 <meta property="og:description" content="PowerStore ReadMe documentation" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://dell.github.io/ansible-docs/docs/storage/platforms/powerstore/readme/" />
-<meta property="article:modified_time" content="2021-09-07T11:01:07-04:00" /><meta property="og:site_name" content="Dell Technologies" />
+<meta property="article:modified_time" content="2021-09-29T04:10:12-04:00" /><meta property="og:site_name" content="Dell Technologies" />
 <meta itemprop="name" content="ReadMe">
 <meta itemprop="description" content="PowerStore ReadMe documentation">
-<meta itemprop="dateModified" content="2021-09-07T11:01:07-04:00" />
-<meta itemprop="wordCount" content="563">
+<meta itemprop="dateModified" content="2021-09-29T04:10:12-04:00" />
+<meta itemprop="wordCount" content="736">
 
 
 
@@ -82,7 +82,7 @@
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/ansible-docs/offline-search-index.5f08514487f800cf9d1fe6c2e178035c08fbe6c4c8cdab06e6f46a67e7f16374b0a092a70464c18e65293855d7bf2deb2c9ca49aeb2ef65cd0eabed164e2a4fa.json"
+  data-offline-search-index-json-src="/ansible-docs/offline-search-index.0795cad9ac1bc78b4c9fef40b665173f5c84b7077b3b411de5f7c6e696e6ca4bedd67da7229e34ed4a76cde7a6e9232889394b4c6a787b6271268c8924d8a517.json"
   data-offline-search-base-href="/"
 >
 
@@ -112,7 +112,7 @@
   aria-label="Search this site…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/ansible-docs/offline-search-index.5f08514487f800cf9d1fe6c2e178035c08fbe6c4c8cdab06e6f46a67e7f16374b0a092a70464c18e65293855d7bf2deb2c9ca49aeb2ef65cd0eabed164e2a4fa.json"
+  data-offline-search-index-json-src="/ansible-docs/offline-search-index.0795cad9ac1bc78b4c9fef40b665173f5c84b7077b3b411de5f7c6e696e6ca4bedd67da7229e34ed4a76cde7a6e9232889394b4c6a787b6271268c8924d8a517.json"
   data-offline-search-base-href="/"
 >
 
@@ -706,13 +706,18 @@
 
 <nav id="TableOfContents">
   <ul>
+    <li><a href="#license">License</a></li>
     <li><a href="#support">Support</a></li>
-    <li><a href="#supported-platforms">Supported Platforms</a></li>
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#idempotency">Idempotency</a></li>
     <li><a href="#list-of-ansible-modules-for-dell-emc-powerstore">List of Ansible Modules for Dell EMC PowerStore</a></li>
     <li><a href="#installation-of-sdk">Installation of SDK</a></li>
-    <li><a href="#installing-collections">Installing Collections</a></li>
+    <li><a href="#building-collections">Building Collections</a></li>
+    <li><a href="#installing-collections">Installing Collections</a>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
     <li><a href="#using-collections">Using Collections</a></li>
     <li><a href="#running-ansible-modules">Running Ansible Modules</a></li>
     <li><a href="#ssl-certificate-validation">SSL Certificate Validation</a></li>
@@ -789,21 +794,38 @@
 	       
 	<h1 id="ansible-modules-for-dell-emc-powerstore">Ansible Modules for Dell EMC PowerStore</h1>
 <p>The Ansible Modules for Dell EMC PowerStore allow Data Center and IT administrators to use RedHat Ansible to automate and orchestrate the configuration and management of Dell EMC PowerStore arrays.</p>
-<p>The capabilities of the Ansible modules are managing volumes, volume groups, hosts, host groups, snapshots, snapshot rules, replication rules, replication sessions, protection policies, file systems, NAS servers, SMB shares, user and tree quotas, file system snapshots and NFS exports. It also allows the capability to gather facts from the array. The options available for each are list, show, create, modify and delete. These tasks can be executed by running simple playbooks written in yaml syntax. The modules are written so that all the operations are idempotent, so making multiple identical requests has the same effect as making a single request.</p>
+<p>The capabilities of the Ansible modules are managing volumes, volume groups, hosts, host groups, snapshots, snapshot rules, replication rules, replication sessions, protection policies, file systems, NAS servers, SMB shares, user and tree quotas, file system snapshots, NFS exports, Cluster, Networks, Local users, Job, and Roles. It also allows the capability to gather facts from the array. The options available for each are list, show, create, modify and delete. These tasks can be executed by running simple playbooks written in yaml syntax. The modules are written so that all the operations are idempotent, so making multiple identical requests has the same effect as making a single request.</p>
+<h2 id="license">License</h2>
+<p>Ansible collection for PowerStore is released and licensed under the GPL-3.0 license. See <a href="LICENSE">LICENSE</a> for the full terms. Ansible modules and modules utilities that are part of the Ansible collection for PowerStore are released and licensed under the Apache 2.0 license. See <a href="MODULE-LICENSE">MODULE-LICENSE</a> for the full terms.</p>
 <h2 id="support">Support</h2>
-<p>Ansible modules for PowerStore are supported by Dell EMC and are provided under the terms of the license attached to the source code.
-Dell EMC does not provide support for any source code modifications.
-For any Ansible module issues, questions or feedback, join the <a href="https://www.dell.com/community/Automation/bd-p/Automation">Dell EMC Automation community</a>.</p>
-<h2 id="supported-platforms">Supported Platforms</h2>
-<ul>
-<li>Dell EMC PowerStore Arrays version 1.0, 2.0</li>
-</ul>
+<p>Ansible collections for PowerStore are supported by Dell EMC and are provided under the terms of the license attached to the collection. Please see the <a href="#license">LICENSE</a> for the full terms.
+Dell EMC does not provide any support for the source code modifications.
+For any Ansible modules issues, questions or feedback, join the <a href="https://www.dell.com/community/Automation/bd-p/Automation">Dell EMC Automation Community</a>.</p>
 <h2 id="prerequisites">Prerequisites</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Ansible Modules</strong></th>
+<th><strong>PowerStore Version</strong></th>
+<th><strong>Red Hat Enterprise Linux</strong></th>
+<th><strong>SDK version</strong></th>
+<th><strong>Python version</strong></th>
+<th><strong>Ansible</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>v1.3.0</td>
+<td>1.x <br> 2.0</td>
+<td>7.8, <br>8.2</td>
+<td>1.4.0</td>
+<td>3.6.x <br> 3.7.x <br> 3.8.x</td>
+<td>2.9 <br> 2.10 <br> 2.11</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>Ansible 2.9, 2.10</li>
-<li>Python 3.5, 3.6, 3.7, 3.8</li>
-<li>Red Hat Enterprise Linux 7.6, 7.7, 7.8, 8.2</li>
-<li>Python Library for PowerStore version 1.3.0 or higher</li>
+<li>Please follow PyPowerStore installation instructions on <a href="https://github.com/dell/python-powerstore">PyPowerStore Documentation</a></li>
 </ul>
 <h2 id="idempotency">Idempotency</h2>
 <p>The modules are written in such a way that all requests are idempotent and hence fault-tolerant. It essentially means that the result of a successfully performed request is independent of the number of times it is executed.</p>
@@ -825,51 +847,74 @@ For any Ansible module issues, questions or feedback, join the <a href="https://
 <li>Quota module</li>
 <li>File system snapshot module</li>
 <li>NFS export module</li>
+<li>Cluster module</li>
+<li>Network module</li>
+<li>Local user module</li>
+<li>Role module</li>
+<li>Job module</li>
 </ul>
 <h2 id="installation-of-sdk">Installation of SDK</h2>
 <ol>
 <li>Clone the repo using the command:</li>
 </ol>
-<pre><code>git clone https://github.com/dell/python-powerstore/tree/1.3.0
-</code></pre>
+<p>git clone <a href="https://github.com/dell/python-powerstore/tree/1.4.0">https://github.com/dell/python-powerstore/tree/1.4.0</a></p>
 <ol start="2">
 <li>Go to the root directory of setup.</li>
 <li>Execute the following command:<br/></li>
 </ol>
-<pre><code>pip install .
+<p>pip install .</p>
+<h2 id="building-collections">Building Collections</h2>
+<ul>
+<li>
+<p>Use the following command to build the collection from source code:</p>
+<pre><code>ansible-galaxy collection build
 </code></pre>
+</li>
+</ul>
+<p>For more details on how to build a tar ball, please refer: <a href="https://docs.ansible.com/ansible/latest/dev_guide/developing_collections_distributing.html#building-your-collection-tarball">Building the collection</a></p>
 <h2 id="installing-collections">Installing Collections</h2>
+<h4 id="online-installation-of-collections">Online Installation of Collections</h4>
 <ol>
-<li>
-<p>Download the tar build and use the following command to install the collection anywhere in your system:</p>
-<p>ansible-galaxy collection install dellemc-powerstore-1.2.1.tar.gz -p &lt;install_path&gt;</p>
-</li>
-<li>
-<p>Set the environemnt variable:</p>
-<p>export ANSIBLE_COLLECTIONS_PATHS=$ANSIBLE_COLLECTIONS_PATHS:&lt;install_path&gt;</p>
-</li>
+<li>Use the following command to install the latest collection hosted in galaxy:</li>
 </ol>
+<p>ansible-galaxy collection install dellemc.powerstore -p &lt;install_path&gt;</p>
+<h4 id="offline-installation-of-collections">Offline Installation of Collections</h4>
+<ol>
+<li>Download the latest tar build from any of the available distribution channel <a href="https://galaxy.ansible.com/dellemc/powerstore">Ansible Galaxy</a> /<a href="https://console.redhat.com/ansible/automation-hub/repo/published/dellemc/powerstore">Automation Hub</a> and use the following command to install the collection anywhere in your system:</li>
+</ol>
+<p>ansible-galaxy collection install dellemc-powerstore-1.3.0.tar.gz -p &lt;install_path&gt;</p>
+<ol start="2">
+<li>Set the environemnt variable:</li>
+</ol>
+<p>export ANSIBLE_COLLECTIONS_PATHS=$ANSIBLE_COLLECTIONS_PATHS:&lt;install_path&gt;</p>
 <h2 id="using-collections">Using Collections</h2>
 <ol>
-<li>
-<p>In order to use any  Ansible module, ensure that the importing of a proper FQCN(Fully Qualified Collection Name) must be embedded in the playbook. Refer to the followig example:
-<br>collections:
-<br>   - dellemc.powerstore</p>
-</li>
-<li>
-<p>For generating Ansible documentaion for a specific module, embed the FQCN  before the module name. Refer to the following example:</p>
-<p>ansible-doc dellemc.powerstore.dellemc_powerstore_gatherfacts</p>
-</li>
+<li>In order to use any Ansible module, ensure that the importing of a proper FQCN (Fully Qualified Collection Name) must be embedded in the playbook. Refer to the followig example:</li>
 </ol>
+<p>collections:</p>
+<ul>
+<li>dellemc.powerstore</li>
+</ul>
+<ol start="2">
+<li>In order to use an installed collection specific to the task use a proper FQCN (Fully Qualified Collection Name). Refer to the followig example:</li>
+</ol>
+<p>tasks:
+- name: Get Volume details
+dellemc.powerstore.dellemc_powerstore_volume</p>
+<ol start="3">
+<li>For generating Ansible documentaion for a specific module, embed the FQCN  before the module name. Refer to the following example:</li>
+</ol>
+<p>ansible-doc dellemc.powerstore.dellemc_powerstore_gatherfacts</p>
 <h2 id="running-ansible-modules">Running Ansible Modules</h2>
-<p>The Ansible server must be configured with Python library for PowerStore to run the Ansible playbooks. The <a href="https://github.com/dell/ansible-powerstore/tree/1.2.1/docs">Documents</a> provide information on different Ansible modules along with their functions and syntax. The parameters table in the Product Guide provides information on various parameters which needs to be configured before running the modules.</p>
+<p>The Ansible server must be configured with Python library for PowerStore to run the Ansible playbooks. The <a href="https://github.com/dell/ansible-powerstore/tree/1.3.0/docs">Documents</a> provide information on different Ansible modules along with their functions and syntax. The parameters table in the Product Guide provides information on various parameters which needs to be configured before running the modules.</p>
 <h2 id="ssl-certificate-validation">SSL Certificate Validation</h2>
 <ol>
 <li>
-<p>Copy the CA certificate to this &ldquo;/etc/pki/ca-trust/source/anchors&rdquo; path of the host by any external means.
-2.Set the &ldquo;REQUESTS_CA_BUNDLE&rdquo; environment variable to the path of the SSL certificate using the following command:</p>
-<pre><code>export REQUESTS_CA_BUNDLE=/etc/pki/ca-trust/source/anchors/&lt;&lt;Certificate_Name&gt;&gt;
-</code></pre>
+<p>Copy the CA certificate to this &ldquo;/etc/pki/ca-trust/source/anchors&rdquo; path of the host by any external means.</p>
+</li>
+<li>
+<p>Set the &ldquo;REQUESTS_CA_BUNDLE&rdquo; environment variable to the path of the SSL certificate using the following command:</p>
+<p>export REQUESTS_CA_BUNDLE=/etc/pki/ca-trust/source/anchors/&laquo;Certificate_Name&raquo;</p>
 </li>
 <li>
 <p>Import the SSL certificate to host using the following command:</p>
