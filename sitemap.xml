@@ -58,17 +58,7 @@
   </url>
   
   <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dell.github.io/ansible-docs/docs/storage/platforms/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powerflex/</loc>
     <lastmod>2021-09-07T11:01:07-04:00</lastmod>
   </url>
   
@@ -88,21 +78,6 @@
   </url>
   
   <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powerflex/product-guide/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powerflex/release-notes/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powermax/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dell.github.io/ansible-docs/docs/storage/platforms/powermax/</loc>
     <lastmod>2021-09-07T11:01:07-04:00</lastmod>
   </url>
@@ -114,21 +89,6 @@
   
   <url>
     <loc>https://dell.github.io/ansible-docs/v2/upgradation/drivers/powermax/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powermax/product-guide/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powermax/release-notes/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/</loc>
     <lastmod>2021-09-07T11:01:07-04:00</lastmod>
   </url>
   
@@ -148,21 +108,6 @@
   </url>
   
   <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/product_guide/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powerscale/release-notes/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dell.github.io/ansible-docs/docs/storage/platforms/powerstore/</loc>
     <lastmod>2021-09-07T11:01:07-04:00</lastmod>
   </url>
@@ -174,16 +119,6 @@
   
   <url>
     <loc>https://dell.github.io/ansible-docs/v2/upgradation/drivers/powerstore/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/product-guide/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/powerstore/release-notes/</loc>
     <lastmod>2021-09-07T11:01:07-04:00</lastmod>
   </url>
   
@@ -278,11 +213,6 @@
   </url>
   
   <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/unity/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dell.github.io/ansible-docs/docs/storage/platforms/unity/</loc>
     <lastmod>2021-09-07T11:01:07-04:00</lastmod>
   </url>
@@ -294,16 +224,6 @@
   
   <url>
     <loc>https://dell.github.io/ansible-docs/v2/upgradation/drivers/unity/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/unity/product-guide/</loc>
-    <lastmod>2021-09-07T11:01:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dell.github.io/ansible-docs/docs/server/platforms/unity/release-notes/</loc>
     <lastmod>2021-09-07T11:01:07-04:00</lastmod>
   </url>
   
