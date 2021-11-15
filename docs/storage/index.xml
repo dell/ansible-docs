@@ -28,7 +28,7 @@
 &lt;p&gt;Ansible modules for Dell EMC storage platforms: PowerMax, PowerStore, PowerScale, PowerFlex, Unity XT and VPLEX help
 customers improve efficiency, flexibility, and agility to run their datacenter operations.Gone are the days when automation meant specialized programming skills like Perl, Python or hard to
 use shell scripting.Instead, Ansible modules for Dell EMC storage do the heavy lifting of coding REST API interactions with storage platforms and expose the storage functionality to the Ansible engine.IT users simply need to specify the storage management actions and the desired configuration in a simple key-value pair format in a YAML file.Dell EMC storage Ansible plugins verify if the desired state has been reached and execute the actions only if the desired state is not reached.This underlying execution intelligence (idempotency) avoids inadvertent execution of actions and any resulting drift in the infrastructure configuration.This approach helps makes it easier to attain consistent and highly scalable operations over the entire IT infrastructure stack for a variety of use cases like DevOps process automation and managing large scale application deployments.&lt;/p&gt;
-&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started:&lt;/h2&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
 &lt;p&gt;Looking to learn more about the Dell Certified Content
 Collection? Here are some great resources to get you started:&lt;/p&gt;
 &lt;ul&gt;
@@ -40,7 +40,6 @@ Collection? Here are some great resources to get you started:&lt;/p&gt;
 &lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://galaxy.ansible.com/dellemc&#34;&gt;Explore&lt;/a&gt; the Community Ansible Collection for Dell EMC&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://access.redhat.com/articles/3642632&#34;&gt;Download&lt;/a&gt; the Supported Ansible Collection for Dell EMC from Automation Hub (Ansible subscription required)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ansible.com/contact-us&#34;&gt;Contact us&lt;/a&gt; for an infrastructure automation demo.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.delltechnologies.com/en-us/storage/storage-automation-and-developer-resources/index.htm#tab0=0&#34;&gt;Dell EMC DevOps and Automation resources&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.delltechnologies.com/en-us/storage/storage-automation-and-developer-resources/index.htm#tab0=0&#34;&gt;Dell EMC Storage Automation and Developer&lt;/a&gt;&lt;/p&gt;
 
