@@ -121,6 +121,7 @@ sidebar_search_disable = false
 navbar_logo = true
 # Set to true to disable the About link in the site footer
 footer_about_disable = false
+sidebar_menu_foldable = true
 
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
 # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
@@ -139,7 +140,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 enable = false
 
 [params.links]
-# End user relevant links. These will show up on left side of footer and in the community page if you have one.
+ # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 #[[params.links.user]]
 #	name = "User mailing list"
 #	url = "https://example.org/mail"
@@ -166,11 +167,11 @@ enable = false
 	url = "https://dellcustomer.slack.com/archives/C01CY517PU4"
 	icon = "fab fa-slack"
         desc = "Chat with other project developers"
-#[[params.links.developer]]
-#	name = "Developer mailing list"
-#	url = "https://example.org/mail"
-#	icon = "fa fa-envelope"
-#        desc = "Discuss development issues around the project"
+[[params.links.developer]]
+        name = "Mailing list"
+	icon = "fa fa-envelope"
+        url = "mailto:ansible.team@dell.com"
+	desc = "Mailing list"
 
 
 
